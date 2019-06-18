@@ -1,0 +1,53 @@
+@keyframes wink-1{
+    47%{transform: rotate(85deg) scaleX(1)}
+    52%{transform: rotate(85deg) scaleX(0)}
+    57%{transform: rotate(85deg) scaleX(1)}
+}
+
+@keyframes wink-2{
+    47%{transform: rotate(10deg) scaleY(1)}
+    52%{transform: rotate(10deg) scaleY(0)}
+    57%{transform: rotate(10deg) scaleY(1)}
+}
+
+@keyframes wink-3{
+    47%{transform: rotate(10deg) scaleY(1)}
+    52%{transform: rotate(10deg) scaleY(0)}
+    57%{transform: rotate(10deg) scaleY(1)}
+}
+
+@keyframes wink-4{
+    47%{transform: rotate(105deg) scaleX(1); opacity: 1;}
+    52%{transform: rotate(105deg) scaleX(0); opacity: 0}
+    57%{transform: rotate(105deg) scaleX(1);opacity: 1;}
+}
+
+@keyframes wink-5{
+    47%{transform: rotate(0deg) scaleY(1)}
+    52%{transform: rotate(0deg) scaleY(0)}
+    57%{transform: rotate(0deg) scaleY(1)}
+}
+
+@keyframes wink-6{
+    47%{transform: rotate(125deg) scaleX(1)}
+    52%{transform: rotate(125deg) scaleX(0)}
+    57%{transform: rotate(125deg) scaleX(1)}
+}
+
+@keyframes wink-7{
+    47%{transform: rotate(190deg) scaleY(1)}
+    52%{transform: rotate(190deg) scaleY(0)}
+    57%{transform: rotate(190deg) scaleY(1)}
+}
+
+@keyframes wink-8{
+    47%{transform: rotate(16deg) scaleY(1)}
+    52%{transform: rotate(16deg) scaleY(0)}
+    57%{transform: rotate(16deg) scaleY(1)}
+}
+
+@keyframes wink-9{
+    47%{transform: rotate(8deg) scaleY(1)}
+    52%{transform: rotate(8deg) scaleY(0)}
+    57%{transform: rotate(8deg) scaleY(1)}
+}
